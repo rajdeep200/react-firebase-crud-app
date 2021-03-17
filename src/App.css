@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.name__style{
+  font-family: cursive;
+}
+
+.list__style{
+  margin: 10px;
+  background-color: rgb(255, 255, 255);
+}
